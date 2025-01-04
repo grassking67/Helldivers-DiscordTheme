@@ -38,3 +38,44 @@
 /* Any custom CSS below here */
 
 
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --home-image: url('https://imgur.com/iu4nhN9.png');
+  --background: url('https://imgur.com/DGuzCTI.gif');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 100px;
+  --popout: url('https://imgur.com/iu4nhN9.png');
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 190,78,180;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.04;
+  --messagetransparency: 0.32;
+  --guildchanneltransparency: 0.36;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: Whitney;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 114,114,114;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --columns: 1;
+  --guildgap: 1;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
